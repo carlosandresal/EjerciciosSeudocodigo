@@ -32,33 +32,15 @@ Algoritmo sin_titulo
 	Escribir "Ingrese el numero del dia (1 a 7)"
 	Leer DIA
 	segun DIA Hacer
-		caso 1: Mostrar "Es LUnes"
-		caso 2: Mostrar "Es Martes"
-		caso 3: Mostrar "Es miercoles"
-		caso 4: Mostrar "Es Jueves"
-		caso 5: Mostrar "Es Viernes"
-		caso 6: Mostrar "Es Sabado"
-		caso 7: Mostrar "Es Domingo"
+		 1: Mostrar "Es LUnes"
+		 2: Mostrar "Es Martes"
+		 3: Mostrar "Es miercoles"
+		 4: Mostrar "Es Jueves"
+		 5: Mostrar "Es Viernes"
+		 6: Mostrar "Es Sabado"
+		 7: Mostrar "Es Domingo"
 			
 		De Otro Modo
 			Escribir "No es un dia valido"
 	FinSegun
 FinAlgoritmo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
