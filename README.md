@@ -1,1 +1,1 @@
-# EjerciciosSeusocodigo
+# EjerciciosSeudocodigo
